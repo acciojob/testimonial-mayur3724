@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#section{
+body{
 	padding:12px;
 	background:#f5f5f5;
 }
@@ -8,7 +8,6 @@
 	font-style:italic;
 }
 .div{
-	color:black;
 	background:white;
-	border:10px;
+	items-align:center;
 }
